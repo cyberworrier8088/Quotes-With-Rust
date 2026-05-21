@@ -9,7 +9,7 @@ This is a simple and very learning usefull Rust used Quote Generator, Made for l
 - More features to come
 
 
-```
+
 
 # Installation
 two ways to install this project:
@@ -22,7 +22,16 @@ first way:
 2. Run the binary
 
 second way:
-1. Clone the repository using `git clone https://github.com/cyberworrier8088/Quotes-With-Rust.git`
-2. Run `cargo build --release`
-3. Run the binary from the `target/release` directory
+1. Clone the repository using :
 ```
+git clone https://github.com/cyberworrier8088/Quotes-With-Rust.git
+```
+2. Run:
+```
+cargo build --release
+```
+3. Run the binary from the `target/release` directory or  run: 
+```
+.\target\release\Quotes-With-Rust.exe
+```
+
