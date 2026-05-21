@@ -35,3 +35,11 @@ cargo build --release
 .\target\release\Quotes-With-Rust.exe
 ```
 
+# source code
+The source code is available at [https://github.com/cyberworrier8088/Quotes-With-Rust](https://github.com/cyberworrier8088/Quotes-With-Rust)
+ source code features:
+ - Easy sytex
+ - Easy to understand
+ - Easy to modify
+ - Easy to use
+ - buggner freandly commands
