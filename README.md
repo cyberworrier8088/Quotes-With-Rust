@@ -45,7 +45,7 @@ The source code is available at [https://github.com/cyberworrier8088/Quotes-With
  - buggner freandly commands
 
 
-## Demo video
+## Demo video(Sometimes not show video)
 this first blue color text is the demo video go: [Watch the Demo Video](./Assets/demo-video.mp4)
 
 
