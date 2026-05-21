@@ -46,5 +46,6 @@ The source code is available at [https://github.com/cyberworrier8088/Quotes-With
 
 
 ## Demo video
-<video src="Assets/Demo-video.mp4" controls="controls" style="max-width: 100%;">
-</video>
+this first blue color text is the demo video go: [Demo video](Assets/Demo-video.mp4)
+
+this gif is the demo video but blury: ![Demo video](Assets/Demo-video.gif)
