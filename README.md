@@ -46,4 +46,5 @@ The source code is available at [https://github.com/cyberworrier8088/Quotes-With
 
 
 ## Demo video
-[Demo video](Assets/Demo-video.mp4)
+<video src="Assets/Demo-video.mp4" controls="controls" style="max-width: 100%;">
+</video>
