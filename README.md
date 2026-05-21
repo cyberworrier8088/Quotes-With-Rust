@@ -1,2 +1,28 @@
 # Quotes-With-Rust
-This is evaryday Quotes with Ai
+This is a simple and very learning usefull Rust used Quote Generator, Made for learning purposes, 
+
+## Features
+- Generate quotes using AI from hackclub's API
+- Send quotes to webhook
+- Schedule quotes
+- Save quotes to discord
+- More features to come
+
+
+```
+
+# Installation
+two ways to install this project:
+1. Download the binary from the releases page
+2. Build it from source
+
+
+first way:
+1. Download the binary from the releases page [Demo auto download](https://github.com/cyberworrier8088/Quotes-With-Rust/releases/download/demo/Quotes-With-Rust.exe) or click [Click and download youself](https://github.com/cyberworrier8088/Quotes-With-Rust/releases/download/demo) 
+2. Run the binary
+
+second way:
+1. Clone the repository using `git clone https://github.com/cyberworrier8088/Quotes-With-Rust.git`
+2. Run `cargo build --release`
+3. Run the binary from the `target/release` directory
+```
