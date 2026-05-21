@@ -43,3 +43,7 @@ The source code is available at [https://github.com/cyberworrier8088/Quotes-With
  - Easy to modify
  - Easy to use
  - buggner freandly commands
+
+
+## Demo video
+[Demo video](Assets/Demo-video.mp4)
